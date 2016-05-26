@@ -12,8 +12,9 @@ Run: .net Framework 4.6.1, WMP
 
 ### How to use
 
-1. Browse to select a folder containing all examed music clips
+1. Browse to select a folder containing all examed music clips.
 1. Use `Play Clip`, `Stop`, `Prev`, `Next` to control. The playlist is randomized.
 1. The name of the clip is hidden. Click the label to check your knowledge.
 1. To generate a new random list, use `Reset Playlist`.
-
+1. `Auto Play` causes the music to automatically begin when navigation happens (`Prev`, `Next`).
+1. `Random Begin` causes the program to select a random beginning point for that clip when navigation happens.
